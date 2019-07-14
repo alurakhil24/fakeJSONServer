@@ -1,14 +1,2741 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Courses": [
+        {
+            "id": "1",
+            "Base Course": "Communication",
+            "Course Title ": "Business Etiquette: Phone, Email, and Text",
+            "Course Description": "The course covers phone etiquette, including proper greetings, voicemails, out-of-office messages, and essential phone behavior.",
+            "Link": "https://www.linkedin.com/learning/business-etiquette-phone-email-and-text?u=2130250"
+        },
+        {
+            "id": "2",
+            "Base Course": " Time Management",
+            "Course Title ": "s",
+            "Course Description": "Discover the principles of time managemt/Identify why switch tasking is an ineffective way to work/Define the limits of your physical inbox.",
+            "Link": "https://www.linkedin.com/learning/time-management-fundamentals?u=2130250"
+        },
+        {
+            "id": "3",
+            "Base Course": "Email, Microsoft Outlook",
+            "Course Title ": "Outlook 2016: Tips and Tricks",
+            "Course Description": "Get tips, tricks, and keyboard shortcuts that will increase your efficiency with Outlook 2016.",
+            "Link": "https://www.linkedin.com/learning/outlook-2016-tips-and-tricks?u=2130250"
+        },
+        {
+            "id": "4",
+            "Base Course": "Business Management",
+            "Course Title ": "Running a Design Business: Presentation Skills",
+            "Course Description": "Strong presentation skills are necessary for a good designer to be a great designer. How you present your ideas impacts how willing clients are to make meaningful emotional and financial investments in them. ",
+            "Link": "https://www.linkedin.com/learning/running-a-design-business-presentation-skills?u=2130250"
+        },
+        {
+            "id": "5",
+            "Base Course": "Spreadsheets, Microsoft Excel",
+            "Course Title ": "Excel 2016 Essential Training",
+            "Course Description": "Working with the Excel interface/Entering data/Creating formulas and functions/Formatting rows, columns, cells, and data etc.",
+            "Link": "https://www.linkedin.com/learning/excel-2016-essential-training?u=2130250"
+        },
+        {
+            "id": "6",
+            "Base Course": " Data Analysis",
+            "Course Title ": "Excel 2016: Macros in Depth",
+            "Course Description": "Understanding macros security/Running macros/Using Visual Basic for Applications (VBA) to program macros/Recording macros",
+            "Link": "https://www.linkedin.com/learning/excel-2016-macros-in-depth/absolute-or-relative-references?u=2130250"
+        },
+        {
+            "id": "7",
+            "Base Course": "Microsoft Excel",
+            "Course Title ": "Excel: PivotTables in Depth",
+            "Course Description": "Creating a PivotTable/Summarizing PivotTable data with formulas and calculated fields/Formatting PivotTables with styles and layouts/Applying conditional formatting such as highlighting",
+            "Link": "https://www.linkedin.com/learning/excel-pivottables-in-depth?u=2130250"
+        },
+        {
+            "id": "8",
+            "Base Course": "Microsoft Excel",
+            "Course Title ": "Excel 2016: Introduction to Formulas and Functions",
+            "Course Description": "Formulas: SUM, AVERAGE, MIN, MAX, MEDIAN, and MODE",
+            "Link": "https://www.linkedin.com/learning/excel-2016-introduction-to-formulas-and-functions?u=2130250"
+        },
+        {
+            "id": "9",
+            "Base Course": "Microsoft Excel",
+            "Course Title ": " Learning Excel: Data-Analysis",
+            "Course Description": "Measure maximums, minimums, and other data characteristics",
+            "Link": "https://www.linkedin.com/learning/learning-excel-data-analysis-2/measure-maximums-minimums-and-other-data-characteristics?u=2130250"
+        },
+        {
+            "id": "10",
+            "Base Course": "Database",
+            "Course Title ": "Learning SQL Programming",
+            "Course Description": "What is SQL?/Asking for data with SELECT etc.",
+            "Link": "https://www.linkedin.com/learning/learning-sql-programming?u=2130250"
+        },
+        {
+            "id": "11",
+            "Base Course": "Database",
+            "Course Title ": "SQL Essential Training",
+            "Course Description": "Understanding SQL terminology and syntax/Creating new tables/Inserting and updating data/Writing basic SQL queries",
+            "Link": "https://www.linkedin.com/learning/sql-essential-training-2?u=2130250"
+        },
+        {
+            "id": "12",
+            "Base Course": "Microsoft PowerPoint,",
+            "Course Title ": "Learning PowerPoint 2016",
+            "Course Description": "This course first explores the interface and helps viewers create and format great PowerPoint presentations on a Windows PC.",
+            "Link": "https://www.linkedin.com/learning/learning-powerpoint-2016-2?u=2130250"
+        },
+        {
+            "id": "13",
+            "Base Course": "Microsoft PowerPoint,",
+            "Course Title ": "PowerPoint: Creating a Self-Running, Interactive Presentation",
+            "Course Description": "Preparing a PowerPoint presentation/Creating interactivity/Adding video to slides",
+            "Link": "https://www.linkedin.com/learning/powerpoint-creating-a-self-running-interactive-presentation?u=2130250"
+        },
+        {
+            "id": "14",
+            "Base Course": "(RPA)",
+            "Course Title ": "Robotic Process Automation: Tech Primer",
+            "Course Description": "Robotic process automation (RPA) is a powerful way to develop software-based robots to automate repetitive and manual tasks.",
+            "Link": "https://www.linkedin.com/learning/robotic-process-automation-tech-primer?u=2130250"
+        },
+        {
+            "id": "15",
+            "Base Course": "(RPA)",
+            "Course Title ": "RPA, AI, and Cognitive Tech for Leaders",
+            "Course Description": "A slew of exciting new technologies—from robotic process automation (RPA) to machine learning (ML)—have altered the way that companies do business. ",
+            "Link": "https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders?u=2130250"
+        },
+        {
+            "id": "16",
+            "Base Course": "SAP",
+            "Course Title ": "SAP clients",
+            "Course Description": "he SAP ERP, or enterprise resource planning, platform helps large businesses streamline their processes and support each segment of their business, from sales to financial accounting. ",
+            "Link": "https://www.linkedin.com/learning/sap-erp-essential-training/sap-clients?u=2130250"
+        },
+        {
+            "id": "17",
+            "Base Course": "Data Analytics",
+            "Course Title ": "Data analyst",
+            "Course Description": "Importance of soft skills/Careers in system administration/Working with machine learning",
+            "Link": "https://www.linkedin.com/learning/developer-career-paths-and-certifications/data-analyst?u=2130250"
+        },
+        {
+            "id": "18",
+            "Base Course": "Data Analytics",
+            "Course Title ": "Defining data analysis and data analyst",
+            "Course Description": "This popular training course—dramatically expanded and enhanced for 2018—teaches analysts and non-analysts alike the basics of data analytics and reporting.",
+            "Link": "https://www.linkedin.com/learning/learning-data-analytics-2/defining-data-analysis-and-data-analyst?autoplay=true&u=2130250"
+        },
+        {
+            "id": "19",
+            "Base Course": "Interviewing Techniques",
+            "Course Title ": "Interview Master Class",
+            "Course Description": "In this course, it will take you to developed from years as a top recruiter and career coach—to help you ace your next job interview.",
+            "Link": "https://www.linkedin.com/learning/interview-master-class?u=2130250"
+        },
+        {
+            "id": "20",
+            "Base Course": "Interviewing Techniques",
+            "Course Title ": "Interviewing Techniques",
+            "Course Description": "Determining the purpose of the interview/Clarifying expectations/Making a good first impression",
+            "Link": "https://www.linkedin.com/learning/interviewing-techniques?u=2130250"
+        },
+        {
+            "id": "21",
+            "Base Course": "Personal Development",
+            "Course Title ": "Creating Your Personal Brand",
+            "Course Description": "In this course, personal branding expert Lida Citroën helps you identify what your personal brand is now and align it with the brand you want for yourself in the future. In the process, she helps you target the individuals or groups who have the opportunities you seek, strategize the marketing for your brand, and identify who you need to know and where to find them. ",
+            "Link": "https://www.linkedin.com/learning/creating-your-personal-brand?u=2130250"
+        },
+        {
+            "id": "22",
+            "Base Course": "Customer Service",
+            "Course Title ": "Innovative Customer Service Techniques",
+            "Course Description": "Identifying the most important customer need/Improving your power of observation/Increasing teamwork",
+            "Link": "https://www.linkedin.com/learning/innovative-customer-service-techniques?u=2130250"
+        },
+        {
+            "id": "23",
+            "Base Course": "Customer Service",
+            "Course Title ": "Customer Service Leadership",
+            "Course Description": "Customer service leadership is an exciting responsibility—and it's never been more important. Fast-evolving customer expectations, emerging service channels, and the multifaceted nature of delivering service are just a few of the challenges customer service teams face.",
+            "Link": "https://www.linkedin.com/learning/customer-service-leadership?u=2130250"
+        },
+        {
+            "id": "24",
+            "Base Course": "Communication, Management",
+            "Course Title ": "Decision making",
+            "Course Description": "Learn skills like effective communication and decision-making—in two minutes or less! Find out how to prioritize your work, manage your time, handle conflict, and more. Take the next step in your career with these practical tips.",
+            "Link": "https://www.linkedin.com/learning/job-skills-learning-the-basics/decision-making?autoplay=true&u=2130250"
+        },
+        {
+            "id": "25",
+            "Base Course": "Personal Development",
+            "Course Title ": "Discovering Your Strengths",
+            "Course Description": "Discover your natural gifts, your passions, your skills, and your greatest abilities. Dave shares specific exercises to help you pinpoint what you should focus on doing (and what you should avoid) to develop your strengths and increase your value as an employee. ",
+            "Link": "https://www.linkedin.com/learning/discovering-your-strengths-2?u=2130250"
+        },
+        {
+            "id": "26",
+            "Base Course": "Personal Development",
+            "Course Title ": "Managing Your Career: Mid-Career",
+            "Course Description": "This course covers a variety of pathways: moving up in your current career; changing roles, industries, or organizations; or even starting your own business. ",
+            "Link": "https://www.linkedin.com/learning/managing-your-career-mid-career?u=2130250"
+        },
+        {
+            "id": "27",
+            "Base Course": "Communication",
+            "Course Title ": "Public Speaking",
+            "Course Description": "Develop the skills you need to prepare and deliver an outstanding speech or presentation.",
+            "Link": "https://www.linkedin.com/learning/public-speaking-foundations-2?u=2130250"
+        },
+        {
+            "id": "28",
+            "Base Course": "Communication",
+            "Course Title ": "Overcoming Your Fear of Public Speaking",
+            "Course Description": "This course will breif you with techniques to prepare yourself mentally and physically so that you can feel comfortable—or even enjoy—delivering your message to an audience.",
+            "Link": "https://www.linkedin.com/learning/overcoming-your-fear-of-public-speaking/action-plan?u=2130250"
+        },
+        {
+            "id": "29",
+            "Course Title ": "Coaching and Mentoring",
+            "Course Description": "Coaching and mentoring your team",
+            "Link": "https://www.linkedin.com/learning/motivating-and-engaging-employees-2013/coaching-and-mentoring-your-team?autoplay=true&u=2130250"
+        },
+        {
+            "id": "30",
+            "Base Course": "Personal Development",
+            "Course Title ": "Coaching and Developing Employees",
+            "Course Description": "The course wraps with a look at how you can maintain the coaching momentum in the workplace and address common challenges.",
+            "Link": "https://www.linkedin.com/learning/coaching-and-developing-employees?u=2130250"
+        },
+        {
+            "id": "31",
+            "Base Course": "Leadership",
+            "Course Title ": "Leadership Foundations",
+            "Course Description": "Cultivate leadership traits that will help you inspire your team, successfully manage change and conflict, and better serve the needs of your organization",
+            "Link": "https://www.linkedin.com/learning/leadership-foundations/next-steps?u=2130250"
+        },
+        {
+            "id": "32",
+            "Base Course": "Leadership",
+            "Course Title ": "Creating a High Performance Culture",
+            "Course Description": "In this course, executive coach and consultant Mike Figliuolo reveals how to define your organization's culture, set direction, manage organizational performance, and ensure the right platforms and processes are in place to reinforce the culture. ",
+            "Link": "https://www.linkedin.com/learning/creating-a-high-performance-culture?u=2130250"
+        },
+        {
+            "id": "33",
+            "Base Course": "Problem Solving",
+            "Course Title ": "Problem solving",
+            "Course Description": "This course can provide you with a foundational mapping of the careers and certifications you might want to consider.",
+            "Link": "https://www.linkedin.com/learning/it-service-desk-careers-and-certifications-first-steps/problem-solving?autoplay=true&u=2130250"
+        },
+        {
+            "id": "34",
+            "Base Course": "Finance, Accounting",
+            "Course Title ": "Accounting Foundations",
+            "Course Description": "This course provides an introduction to the four basic types of accounting—bookkeeping and financial, managerial, and tax accounting—and explains the links between accounting, decision-making, business performance, and financial health. Accounting professors Jim and Kay Stice review the three primary financial statements, using actual examples from companies like Walmart. ",
+            "Link": "https://www.linkedin.com/learning/accounting-foundations-2?u=2130250"
+        },
+        {
+            "id": "35",
+            "Base Course": "Finance, Accounting",
+            "Course Title ": "Accounting Foundations: Managerial Accounting",
+            "Course Description": "Managerial accounting helps managers make decisions using an organization's financial data.",
+            "Link": "https://www.linkedin.com/learning/accounting-foundations-managerial-accounting?u=2130250"
+        },
+        {
+            "id": "36",
+            "Base Course": "communication",
+            "Course Title ": "Refining your verbal communication",
+            "Course Description": "Presenting one-on-one, to a team, or to a larger audience/Choosing a presentation format/Introducing your design and providing context/Persuading your audience",
+            "Link": "https://www.linkedin.com/learning/running-a-design-business-presentation-skills/refining-your-verbal-communication?autoplay=true&u=2130250"
+        },
+        {
+            "id": "37",
+            "Base Course": "Personal Effectiveness",
+            "Course Title ": "Working on a Cross-Functional Team",
+            "Course Description": "Creating a team culture/Setting shared goals/Dealing with conflict /Managing performance",
+            "Link": "https://www.linkedin.com/learning/working-on-a-cross-functional-team?u=2130250"
+        },
+        {
+            "id": "38",
+            "Base Course": "Teamwork",
+            "Course Title ": "Teamwork Foundations",
+            "Course Description": "Identify how to work effectively as a team without management./Develop skills for better communication and trust.Determine how to handle conflict on a team./Assess how to deliver results reliably.",
+            "Link": "https://www.linkedin.com/learning/teamwork-foundations?u=2130250"
+        },
+        {
+            "id": "39",
+            "Base Course": "Communication",
+            "Course Title ": "Improving Your Conflict Competence",
+            "Course Description": "This course helps you become aware of what your conflict response is. Once you are aware of how conflict arises, learn some practical steps you can take to manage your emotions and engage with others constructively.",
+            "Link": "https://www.linkedin.com/learning/improving-your-conflict-competence?u=2130250"
+        },
+        {
+            "id": "40",
+            "Base Course": "Time Management",
+            "Course Title ": "Time Management Fundamentals",
+            "Course Description": "Effective time management is an indispensable skill. Learn how to get more done in the shortest time possible and avoid the obstacles and distractions that can get in the way of good time management. ",
+            "Link": "https://www.linkedin.com/learning/time-management-fundamentals?u=2130250"
+        },
+        {
+            "id": "41",
+            "Base Course": "SharePoint",
+            "Course Title ": "SharePoint Online Essential Training: The Basics",
+            "Course Description": "SharePoint Online is a powerful collaboration platform that leverages the power of the cloud. With one tool, you can create, save, share, and sync documents in real time.",
+            "Link": "https://www.linkedin.com/learning/sharepoint-online-essential-training-the-basics?u=2130250"
+        },
+        {
+            "id": "42",
+            "Base Course": "Management, Leadership",
+            "Course Title ": "Managing Organizational Change for Managers",
+            "Course Description": "Learn the official definition of change management and get clear about your role in the process. Discover strategies to remove the discomfort of change, communicate change to different groups, reinforce skills, leverage performance management, and sustain planned change.",
+            "Link": "https://www.linkedin.com/learning/managing-organizational-change-for-managers?u=2130250"
+        },
+        {
+            "id": "43",
+            "Base Course": "Inventory Management",
+            "Course Title ": "Inventory management",
+            "Course Description": "Researching the market and the competition/Planning for retail sales success/Selling to retailers/Creating a consumer marketing plan",
+            "Link": "https://www.linkedin.com/learning/selling-into-industries-retail-and-consumer-products/inventory-management?autoplay=true&u=2130250"
+        },
+        {
+            "id": "44",
+            "Base Course": "Inventory Management",
+            "Course Title ": "Inventory Management Foundations",
+            "Course Description": "What is inventory management?/Viewing inventory as money/Reasons to hold inventory/Production inventory and finished goods inventory",
+            "Link": "https://www.linkedin.com/learning/inventory-management-foundations?u=2130250"
+        },
+        {
+            "id": "45",
+            "Base Course": "Leadership",
+            "Course Title ": "Inspire confidence, even under pressure",
+            "Course Description": "In this course it gives you the keys to the C suite: a look at executive leadership qualities that set the best apart from the rest.",
+            "Link": "https://www.linkedin.com/learning/executive-leadership/encourage-personal-excellence?u=2130250"
+        },
+        {
+            "id": "46",
+            "Base Course": "Performing under Pressure",
+            "Course Title ": "Next steps",
+            "Course Description": "In this course, learn how to identify pressure situations and tackle them with confidence. I",
+            "Link": "https://www.linkedin.com/learning/performing-under-pressure/next-steps?autoplay=true&u=2130250"
+        },
+        {
+            "id": "47",
+            "Base Course": "Management ",
+            "Course Title ": "Dealing with pressure at work",
+            "Course Description": "In this course you will get a tips respected and motivated managers use to improve rapport, navigate tricky situations, build better relationships, and drive the business forward. ",
+            "Link": "https://www.linkedin.com/learning/management-tips-weekly/tips-for-dealing-with-pressure-at-work?autoplay=true&u=2130250"
+        },
+        {
+            "id": "48",
+            "Base Course": "SQL",
+            "Course Title ": "Introducing query execution plans",
+            "Course Description": "Learn how to query data from SQL Server tables. ",
+            "Link": "https://www.linkedin.com/learning/microsoft-sql-server-2016-essential-training/explore-execution-plans?autoplay=true&u=2130250"
+        },
+        {
+            "id": "49",
+            "Base Course": "SQL",
+            "Course Title ": " Explore execution plans",
+            "Course Description": "SQL Server supports mission-critical applications and big data solutions—without having to buy expensive add-ons or high-end appliances. Learn the essentials of Microsoft's latest release, SQL Server 2016.",
+            "Link": "https://www.linkedin.com/learning/microsoft-sql-server-2016-essential-training/explore-execution-plans?autoplay=true&u=2130250"
+        },
+        {
+            "id": "50",
+            "Base Course": "Risk Management",
+            "Course Title ": "What is risk management",
+            "Course Description": "What is risk management?/Managing change to a network/Mitigating network threats",
+            "Link": "https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-9-managing-the-network/what-is-risk-management?autoplay=true&u=2130250"
+        },
+        {
+            "id": "51",
+            "Base Course": "Risk Management",
+            "Course Title ": "Risk management overview",
+            "Course Description": "Goals and components of an information security program/Measuring and managing information risks",
+            "Link": "https://www.linkedin.com/learning/implementing-an-information-security-program/risk-management-overview?autoplay=true&u=2130250"
+        },
+        {
+            "id": "52",
+            "Base Course": "Risk Management",
+            "Course Title ": "Risk: The beast to tame",
+            "Course Description": "Explore why dealing with risks needs to be part of the everyday process used to manage a project./Learn to outline the most common, pragmatic approaches to identifying risks specific to a project.",
+            "Link": "https://www.linkedin.com/learning/project-management-foundations-risk-3/incorporating-risk-management?u=2130250"
+        },
+        {
+            "id": "53",
+            "Base Course": "Critical thinking",
+            "Course Title ": "Critical thinking ",
+            "Course Description": "Critical thinking is the ability to think reflectively and independently in order to make thoughtful decisions. By focusing on root-cause issues critical thinking helps you avoid future problems that can result from your actions. ",
+            "Link": "https://www.linkedin.com/learning/critical-thinking?u=2130250"
+        },
+        {
+            "id": "54",
+            "Base Course": "Critical thinking",
+            "Course Title ": "The importance of critical thinking",
+            "Course Description": "Identify how to break down complicated issues into smaller components./Determine the definition of an effective problem statement./Identify the primary benefit of focusing questions.",
+            "Link": "https://www.linkedin.com/learning/critical-thinking/the-importance-of-critical-thinking?autoplay=true&u=2130250"
+        },
+        {
+            "id": "55",
+            "Base Course": "Conflict Management",
+            "Course Title ": "Conflict Management",
+            "Course Description": "Establishing rapport and empathy/Managing conflict/Facilitating the decision-making process",
+            "Link": "https://www.linkedin.com/learning/business-analysis-foundations-competencies/conflict-management?autoplay=true&u=2130250"
+        },
+        {
+            "id": "56",
+            "Base Course": "Project Management",
+            "Course Title ": "Project Management Foundations",
+            "Course Description": "Developing a schedule management plan/Identifying project activities/Adding milestones/Organizing work/Estimating duration and work",
+            "Link": "https://www.linkedin.com/learning/project-management-foundations-schedules-2?u=2130250"
+        },
+        {
+            "id": "57",
+            "Base Course": "Conflict Management",
+            "Course Title ": "Improving Your Conflict Competence",
+            "Course Description": "This course helps you manage workplace conflict more effectively.",
+            "Link": "https://www.linkedin.com/learning/improving-your-conflict-competence?u=2130250"
+        },
+        {
+            "id": "58",
+            "Base Course": "People Management",
+            "Course Title ": "Transitioning from Manager to Leader",
+            "Course Description": "Much like management, leadership is a skill that can be taught. In this course, you will learn proven strategies to help you shift your mindset from manager to leader.",
+            "Link": "https://www.linkedin.com/learning/transitioning-from-manager-to-leader?u=2130250"
+        },
+        {
+            "id": "59",
+            "Base Course": "People Management",
+            "Course Title ": "Executive Decision Making",
+            "Course Description": "This course helps you find the data and tools to support your decision, make the call, communicate decisions effectively, and lead your organization through the change. ",
+            "Link": "https://www.linkedin.com/learning/executive-decision-making?u=2130250"
+        },
+        {
+            "id": "60",
+            "Base Course": "People Management",
+            "Course Title ": "Performance Review Foundations",
+            "Course Description": "Make performance reviews more useful and motivating and less stressful for both you and your employees. ",
+            "Link": "https://www.linkedin.com/learning/performance-review-foundations?u=2130250"
+        },
+        {
+            "id": "61",
+            "Base Course": "Project Management",
+            "Course Title ": "Solving Common Project Problems",
+            "Course Description": "In the course, project management it will show you how to solve the most common problems that arise when working on projects. ",
+            "Link": "https://www.linkedin.com/learning/project-management-solving-common-project-problems?u=2130250"
+        },
+        {
+            "id": "62",
+            "Base Course": "Career",
+            "Course Title ": "Master Confident Presentations",
+            "Course Description": "Kick-starting your presentation/Building in a memorable ending/Knowing your audience/Overcoming nerves",
+            "Link": "https://www.linkedin.com/learning/master-confident-presentations?u=2130250"
+        },
+        {
+            "id": "63",
+            "Base Course": "Communication",
+            "Course Title ": "Communicating with confidence",
+            "Course Description": "Understanding introversion and extroversion/Persuading people/Negotiating your needs/Making small talk/Saying no",
+            "Link": "https://www.linkedin.com/learning/communication-tips-weekly/communicating-with-confidence?autoplay=true&u=2130250"
+        },
+        {
+            "id": "64",
+            "Base Course": "Career",
+            "Course Title ": "Staying focused and positive",
+            "Course Description": "Selling \"you\" and building your brand/Leveraging an internship/Finding your network/Identifying your ideal employer",
+            "Link": "https://www.linkedin.com/learning/job-hunting-for-college-grads/staying-focused-and-positive?autoplay=true&u=2130250"
+        },
+        {
+            "id": "65",
+            "Base Course": "Leadership",
+            "Course Title ": "Leading through influence",
+            "Course Description": "Types of products and industries/Leading through influence/Understanding your team",
+            "Link": "https://www.linkedin.com/learning/product-management-first-steps/leading-through-influence?autoplay=true&u=2130250"
+        },
+        {
+            "id": "66",
+            "Base Course": "Coaching and Mentoring",
+            "Course Title ": "Coaching Skills for Leaders and Managers",
+            "Course Description": "In this course, you will find the differences between managing, training, and coaching, and provides managers with coaching models and skills to support the development and growth of their employees.",
+            "Link": "https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=2130250"
+        },
+        {
+            "id": "67",
+            "Base Course": "Coaching and Mentoring",
+            "Course Title ": "How to coach a low performer",
+            "Course Description": "Coaching—like managing—isn't an intuitive skill. It's also not a one-type-fits-all solution. ",
+            "Link": "https://www.linkedin.com/learning/coaching-for-results/how-to-coach-a-low-performer?autoplay=true&u=2130250"
+        },
+        {
+            "id": "68",
+            "Base Course": "Coaching and Mentoring",
+            "Course Title ": "Coaching for Results",
+            "Course Description": "Coaching—like managing—isn't an intuitive skill. It's also not a one-type-fits-all solution. ",
+            "Link": "https://www.linkedin.com/learning/coaching-for-results?u=2130250"
+        },
+        {
+            "id": "69",
+            "Base Course": "Project Management",
+            "Course Title ": "Engaging interpersonal skills",
+            "Course Description": "Create healthy partnerships with your stakeholders and build a win-win environment for your business. ",
+            "Link": "https://www.linkedin.com/learning/project-management-foundations-stakeholders/engaging-interpersonal-skills?autoplay=true&u=2130250"
+        },
+        {
+            "id": "70",
+            "Base Course": "Project Management",
+            "Course Title ": "Interpersonal Communication",
+            "Course Description": "Create healthy partnerships with your stakeholders and build a win-win environment for your business. ",
+            "Link": "https://www.linkedin.com/learning/interpersonal-communication?u=2130250"
+        },
+        {
+            "id": "71",
+            "Base Course": "Marketing",
+            "Course Title ": "What is social customer relationship management (CRM)?",
+            "Course Description": "Allocating resources to support your initiative/Building and maintaining brand strategies/Establishing rules of engagement for customer interactions",
+            "Link": "https://www.linkedin.com/learning/social-media-marketing-social-crm/what-is-social-customer-relationship-management-crm?autoplay=true&u=2130250"
+        },
+        {
+            "id": "72",
+            "Base Course": "Marketing",
+            "Course Title ": "Learning Salesforce Admin",
+            "Course Description": "Planning a transition to Salesforce/Administering user accounts/Managing permissions/Capturing and converting leads",
+            "Link": "https://www.linkedin.com/learning/learning-salesforce-admin-2017/welcome?u=2130250"
+        },
+        {
+            "id": "73",
+            "Base Course": "Marketing",
+            "Course Title ": "Customer relationship management (CRM)",
+            "Course Description": "For every successful product, there are a dozen that never made it on store shelves. A well-planned sales strategy will help you overcome challenges and get your product into customers' hands. ",
+            "Link": "https://www.linkedin.com/learning/selling-into-industries-retail-and-consumer-products/customer-relationship-management-crm?autoplay=true&u=2130250"
+        },
+        {
+            "id": "74",
+            "Base Course": "Marketing",
+            "Course Title ": "Salesforce for Marketers",
+            "Course Description": "Salesforce is a hugely popular-and powerful-customer relationship management (CRM) platform that gives marketers the tools they need to put their customers first. ",
+            "Link": "https://www.linkedin.com/learning/salesforce-for-marketers/welcome?u=2130250"
+        },
+        {
+            "id": "75",
+            "Base Course": "Social Maerketing",
+            "Course Title ": "Social Selling with Salesforce",
+            "Course Description": "Why social selling is important/Using Salesforce for social selling/Optimizing social tools/Listening on social media/Sharing engaging content/Building trust",
+            "Link": "https://www.linkedin.com/learning/social-selling-with-salesforce?u=2130250"
+        },
+        {
+            "id": "76",
+            "Base Course": "Social Maerketing",
+            "Course Title ": "Social Media Marketing: Social CRM",
+            "Course Description": "While social media provides you with a wealth of information about who your customers are and what they want, determining the most effective way to harness this information can be tricky.",
+            "Link": "https://www.linkedin.com/learning/social-media-marketing-social-crm?u=2130250"
+        },
+        {
+            "id": "77",
+            "Base Course": "Social Maerketing",
+            "Course Title ": "Dynamics for Power Users: Reports, Charts, and Dashboards",
+            "Course Description": "Learn how to work smarter in Microsoft Dynamics 365.. In this advanced course,you will dives into using reports, charts, and dashboards to influence business workflows and share the data story inside Dynamics. Gini steps through how to create, modify, manage, and share reports.",
+            "Link": "https://www.linkedin.com/learning/dynamics-for-power-users-reports-charts-and-dashboards?u=2130250"
+        },
+        {
+            "id": "78",
+            "Base Course": "Feedback",
+            "Course Title ": "Giving and Receiving Feedback",
+            "Course Description": "This course to learn how to give and receive high-quality feedback. Whether it's with peers, managers, colleagues, team members, friends, or family, the same principles apply across the board. ",
+            "Link": "https://www.linkedin.com/learning/giving-and-receiving-feedback?u=2130250"
+        },
+        {
+            "id": "79",
+            "Base Course": "Feedback",
+            "Course Title ": "Customer Service: Managing Customer Feedback",
+            "Course Description": "Why tracking and using customer feedback is so important/Establishing goals/Managing feedback in real time/Responding to positive and negative feedback",
+            "Link": "https://www.linkedin.com/learning/customer-service-managing-customer-feedback?u=2130250"
+        },
+        {
+            "id": "80",
+            "Base Course": "Customer service",
+            "Course Title ": "Customer Service Strategy",
+            "Course Description": "What is customer service strategy?/Identifying customer expectations/Strategic planning/Investing in skills, leaders, and technology",
+            "Link": "https://www.linkedin.com/learning/customer-service-strategy?u=2130250"
+        },
+        {
+            "id": "81",
+            "Base Course": "Customer service",
+            "Course Title ": "Customer Service Leadership",
+            "Course Description": "Customer service leadership is an exciting responsibility—and it's never been more important. ",
+            "Link": "https://www.linkedin.com/learning/customer-service-leadership?u=2130250"
+        },
+        {
+            "id": "82",
+            "Base Course": "Customer service",
+            "Course Title ": "Managing a Customer Service Team",
+            "Course Description": "In this course, author and customer service it shows you the secrets of managing great customer service teams.",
+            "Link": "https://www.linkedin.com/learning/managing-a-customer-service-team/setting-customer-service-goals?u=2130250"
+        },
+        {
+            "id": "83",
+            "Base Course": "Customer service Leadership",
+            "Course Title ": "Customer Service Leadership",
+            "Course Description": "Customer service leadership is an exciting responsibility—and it's never been more important. Fast-evolving customer expectations, emerging service channels, and the multifaceted nature of delivering service are just a few of the challenges customer service teams face. ",
+            "Link": "https://www.linkedin.com/learning/customer-service-leadership/why-effective-leadership-is-so-important?u=2130250"
+        },
+        {
+            "id": "84",
+            "Base Course": "Database Management",
+            "Course Title ": "Database Foundations: Administration",
+            "Course Description": "Securing the database server/Granting object-level permissions",
+            "Link": "https://www.linkedin.com/learning/database-foundations-administration?u=2130250"
+        },
+        {
+            "id": "85",
+            "Base Course": "Database Management",
+            "Course Title ": "Database Foundations: Core Concepts",
+            "Course Description": "Creating your first database and tables/Creating and editing database objects",
+            "Link": "https://www.linkedin.com/learning/database-foundations-core-concepts?u=2130250"
+        },
+        {
+            "id": "86",
+            "Base Course": "Database Management",
+            "Course Title ": "Database Foundations: Creating and Manipulating Data",
+            "Course Description": "Storing dates, times, and text/Converting data types/Creating tables/Writing T-SQL commands/Selecting records with queries",
+            "Link": "https://www.linkedin.com/learning/database-foundations-creating-and-manipulating-data?u=2130250"
+        },
+        {
+            "id": "87",
+            "Base Course": "Database Management",
+            "Course Title ": "Database Clinic: MS Excel",
+            "Course Description": "Creating a database in Excel/Joining two data sets/Searching a database in Excel/Importing and formatting text in an Excel database",
+            "Link": "https://www.linkedin.com/learning/database-clinic-ms-excel?u=2130250"
+        },
+        {
+            "id": "88",
+            "Base Course": "Finance, Accounting",
+            "Course Title ": "Finance Essentials for Small Business",
+            "Course Description": "Starting small/Coping with insufficient capital/Managing cash flow/Keeping records/Pricing products",
+            "Link": "https://www.linkedin.com/learning/finance-essentials-for-small-business?u=2130250"
+        },
+        {
+            "id": "89",
+            "Base Course": "Finance, Accounting",
+            "Course Title ": "Excel: Management Accounting",
+            "Course Description": "Management accountants help executives make smarter, more informed business decisions. By providing advice and frequent, detailed internal updates, they help clarify their firm's current financial standing—and suggest how to boost profits going forward. ",
+            "Link": "https://www.linkedin.com/learning/excel-management-accounting?u=2130250"
+        },
+        {
+            "id": "90",
+            "Base Course": "Finance, Accounting",
+            "Course Title ": "Data Analytics for Pricing Analysts in Excel",
+            "Course Description": "Discover how to make smarter product pricing decisions that maximize your organization's profits. ",
+            "Link": "https://www.linkedin.com/learning/data-analytics-for-pricing-analysts-in-excel/welcome?u=2130250"
+        },
+        {
+            "id": "91",
+            "Base Course": "Finance, Accounting",
+            "Course Title ": "Cost Accounting: Analyzing Product Profitability",
+            "Course Description": "In this courseyou will learn  how to use cost accounting to determine the profitability of your products, and how to plan your product performance to achieve your business goals.",
+            "Link": "https://www.linkedin.com/learning/cost-accounting-analyzing-product-profitability?u=2130250"
+        },
+        {
+            "id": "92",
+            "Base Course": "Personal Development",
+            "Course Title ": "Learning to Be Assertive",
+            "Course Description": "Identifying your current mindset/Avoiding the passive-aggressive trap/Reducing negative emotions",
+            "Link": "https://www.linkedin.com/learning/learning-to-be-assertive?u=2130250"
+        },
+        {
+            "id": "93",
+            "Base Course": "Personal Development",
+            "Course Title ": "Reviewing your progress",
+            "Course Description": "Discover the importance of celebrating successes and reviewing your progress in order to stay motivated and establish a pattern of successful goal setting.",
+            "Link": "https://www.linkedin.com/learning/achieving-your-goals/reviewing-your-progress?u=2130250"
+        },
+        {
+            "id": "94",
+            "Base Course": "Personal Development",
+            "Course Title ": "Consulting Foundations: Building Your Brand",
+            "Course Description": "Defining your positioning and messaging/Choosing channels/Nurturing your network",
+            "Link": "https://www.linkedin.com/learning/consulting-foundations-building-your-brand?u=2130250"
+        },
+        {
+            "id": "95",
+            "Base Course": "Marketing",
+            "Course Title ": "Marketing Communications",
+            "Course Description": "Conducting research to understand the marketing landscape/Identifying your buyer personas/Creating your competitive edge/Evaluating inputs before building a program/Creating a marketing plan",
+            "Link": "https://www.linkedin.com/learning/marketing-communications?u=2130250"
+        },
+        {
+            "id": "96",
+            "Base Course": "Marketing",
+            "Course Title ": "Social Media Marketing Foundations",
+            "Course Description": "In this course, discover how to leverage social media in your overall marketing strategy, and learn best practices for leading social media campaigns that help you successfully connect with consumers. ",
+            "Link": "https://www.linkedin.com/learning/social-media-marketing-foundations-2?u=2130250"
+        },
+        {
+            "id": "97",
+            "Base Course": "Marketing",
+            "Course Title ": "Marketing Foundations: Market Research",
+            "Course Description": "Understanding market search/Determining the research approach/Understanding the types of research: qualitative to quantitative/Collecting data/Analyzing data/Preparing reports/Identifying potential issues in marketing research",
+            "Link": "https://www.linkedin.com/learning/marketing-foundations-market-research?u=2130250"
+        },
+        {
+            "id": "98",
+            "Base Course": "Strategy",
+            "Course Title ": "Create A Brand Strategy",
+            "Course Description": "Framing your strategy/Crafting your brand promise/Defining your brand character/Activating your strategy/Identifying your plan of action",
+            "Link": "https://www.linkedin.com/learning/create-a-brand-strategy?u=2130250"
+        },
+        {
+            "id": "99",
+            "Base Course": "Strategy",
+            "Course Title ": "Advertising Foundations",
+            "Course Description": "Learn the fundamentals of effective advertising and marketing communications.",
+            "Link": "https://www.linkedin.com/learning/advertising-foundations?u=2130250"
+        },
+        {
+            "id": "100",
+            "Base Course": "Marketing",
+            "Course Title ": "Digital Marketing Trends",
+            "Course Description": "Stay up to date on the latest trends in digital marketing. ",
+            "Link": "https://www.linkedin.com/learning/digital-marketing-trends?u=2130250"
+        },
+        {
+            "id": "101",
+            "Base Course": "Marketing",
+            "Course Title ": "Create a Go-To-Market Plan",
+            "Course Description": "Developing your product vision and message/Setting your product price at launch/Setting up your channel strategy",
+            "Link": "https://www.linkedin.com/learning/create-a-go-to-market-plan?u=2130250"
+        },
+        {
+            "id": "102",
+            "Base Course": " Public Relations",
+            "Course Title ": "Public Relations Foundations",
+            "Course Description": "Understanding public relations/Exploring new channels and choices/Combining trusted research with new media/Developing audience profiles and buyer personas",
+            "Link": "https://www.linkedin.com/learning/public-relations-foundations?u=2130250"
+        },
+        {
+            "id": "103",
+            "Base Course": " Public Relations",
+            "Course Title ": "Public Relations Foundations: Media Training",
+            "Course Description": "Selecting your spokesperson/Knowing your journalist/Preparing for interviews/Interviewing on Skype and social media/Going off the record",
+            "Link": "https://www.linkedin.com/learning/public-relations-foundations-media-training?u=2130250"
+        },
+        {
+            "id": "104",
+            "Base Course": "Marketing",
+            "Course Title ": "Marketing Communications",
+            "Course Description": "Conducting research to understand the marketing landscape/Identifying your buyer personas/Creating your competitive edge etc.",
+            "Link": "https://www.linkedin.com/learning/marketing-communications?u=2130250"
+        },
+        {
+            "id": "105",
+            "Base Course": "Excel Data & Analytics Skills",
+            "Course Title ": "Excel VBA: Managing Files and Data",
+            "Course Description": "Extend Excel's capabilities and automate complex tasks with VBA. Create advanced filters, charts, and forms, and manage workbooks and worksheets with VBA code.",
+            "Link": "https://www.linkedin.com/learning/excel-vba-managing-files-and-data?u=2130250"
+        },
+        {
+            "id": "106",
+            "Base Course": "Excel Data & Analytics Skills",
+            "Course Title ": "Excel VBA: Process Modeling",
+            "Course Description": "Learn how to use Excel and VBA for business process modeling. Find out how to create and run simulations for customer flow, queuing, and manufacturing.",
+            "Link": "https://www.linkedin.com/learning/excel-vba-process-modeling?u=2130250"
+        },
+        {
+            "id": "107",
+            "Base Course": "Machine Learning",
+            "Course Title ": "What is machine learning?",
+            "Course Description": "Setting up the development environment/Building a simple home value estimator/Finding the best weights automatically/Working with large data sets efficiently",
+            "Link": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-value-estimations/what-is-machine-learning?u=2130250"
+        },
+        {
+            "id": "108",
+            "Base Course": "Machine Learning",
+            "Course Title ": "Machine Learning and AI Foundations: Recommendations",
+            "Course Description": "This project-based course shows programmers of all skill levels how to use machine learning to build programs that can make recommendations",
+            "Link": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations?u=2130250"
+        },
+        {
+            "id": "109",
+            "Base Course": "Machine Learning",
+            "Course Title ": "Artificial Intelligence Foundations: Machine Learning",
+            "Course Description": "Machine learning is one of the liveliest areas in artificial intelligence. Machine learning algorithms allow computers to learn new things without being programmed. They use statistics as a way to better understand the massive amounts of data that we create every day. ",
+            "Link": "https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning?u=2130250"
+        },
+        {
+            "id": "110",
+            "Base Course": "SQL",
+            "Course Title ": "SQL for Exploratory Data Analysis Essential Training",
+            "Course Description": "Learn how to use SQL to understand the characteristics of data sets destined for data science and machine learning. ",
+            "Link": "https://www.linkedin.com/learning/sql-for-exploratory-data-analysis-essential-training?u=2130250"
+        },
+        {
+            "id": "111",
+            "Base Course": "Data Analytics",
+            "Course Title ": "Measure maximums, minimums, and other data characteristics",
+            "Course Description": "This course helps you unlock the power of your organization's data using the data analysis and visualization tools built into Excel. ",
+            "Link": "https://www.linkedin.com/learning/learning-excel-data-analysis-2/measure-maximums-minimums-and-other-data-characteristics?u=2130250"
+        },
+        {
+            "id": "112",
+            "Base Course": "Data Analytics",
+            "Course Title ": "Python Data Structures: Stacks, Queues, and Deques",
+            "Course Description": "Abstract types and data structures/Stacks as a linear abstract data type/Creating the Stack class and its methods",
+            "Link": "https://www.linkedin.com/learning/python-data-structures-stacks-queues-and-deques?u=2130250"
+        },
+        {
+            "id": "113",
+            "Base Course": "Supply and chain",
+            "Course Title ": "Supply Chain Foundations",
+            "Course Description": "Identify parts of a supply chain./List the keys to successful global supply chain management./Describe the concept of inventory in supply chain.",
+            "Link": "https://www.linkedin.com/learning/supply-chain-foundations?u=2130250"
+        },
+        {
+            "id": "114",
+            "Base Course": "Supply and chain",
+            "Course Title ": "Supply Chain and Operations Management Weekly Tips",
+            "Course Description": "This weekly series helps you review the latest in supply chain and operations management in bite-sized chunks.",
+            "Link": "https://www.linkedin.com/learning/supply-chain-and-operations-management-weekly-tips?u=2130250"
+        },
+        {
+            "id": "115",
+            "Base Course": "Six Sigma Foundations",
+            "Course Title ": "Learn Sigma levels",
+            "Course Description": "Learn how to apply Six Sigma to drive improvements in the performance of your processes, products, and services.",
+            "Link": "https://www.linkedin.com/learning/six-sigma-foundations/learn-sigma-levels?u=2130250"
+        },
+        {
+            "id": "116",
+            "Base Course": "Six Sigma Foundations",
+            "Course Title ": "Lean Six Sigma Foundations",
+            "Course Description": "Lean Six Sigma combines the principles of lean enterprise and lean manufacturing with Six Sigma to improve performance and systematically remove waste. ",
+            "Link": "https://www.linkedin.com/learning/lean-six-sigma-foundations?u=2130250"
+        },
+        {
+            "id": "117",
+            "Base Course": "Six Sigma Foundations",
+            "Course Title ": "Six Sigma: Green Belt",
+            "Course Description": "Six Sigma is a customer-focused, data-driven methodology that is widely used to analyze and improve the performance of processes, products, and services.",
+            "Link": "https://www.linkedin.com/learning/six-sigma-green-belt?u=2130250"
+        },
+        {
+            "id": "118",
+            "Base Course": "Six Sigma Foundations",
+            "Course Title ": "Six Sigma: Black Belt",
+            "Course Description": "Six Sigma is a customer-focused, data-driven methodology that is widely used to analyze and improve the performance of processes, products, and services.",
+            "Link": "https://www.linkedin.com/learning/six-sigma-black-belt?u=2130250"
+        },
+        {
+            "id": "119",
+            "Base Course": "Six Sigma Foundations",
+            "Course Title ": "Lean Six Sigma: Analyze, Improve, and Control Tools",
+            "Course Description": "The Green Belts or Black Belts that lead Lean Six Sigma projects are well-trained and ready to guide your project to the finish line.",
+            "Link": "https://www.linkedin.com/learning/lean-six-sigma-analyze-improve-and-control-tools?u=2130250"
+        }
+    ],
+      "GradeDetails": [
+          {
+              "id": "1",
+              "Grade": "M10",
+              "Role": "Director",
+              "Department": "GDO Ops",
+              "Job Discription": "Director Business Operations",
+              "Director": "Greg Clopton",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "2",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Nakuten market place",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "3",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Newegg market place",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "4",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Ebay market place",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "5",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Invalid order code management",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "6",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Market place and purchasing power",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "7",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Robotics",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "8",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "SB Ops",
+              "Job Discription": "Data Quality maping & Accounts",
+              "Director": "Bryan D Roberts",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "9",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "SB Ops",
+              "Job Discription": "Score card and backlog",
+              "Director": "Bryan D Roberts",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "10",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "SB Ops",
+              "Job Discription": "DEN process support",
+              "Director": "Bryan D Roberts",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "11",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "SB Ops",
+              "Job Discription": "New hires onboarding & process tool support",
+              "Director": "Bryan D Roberts",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "12",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "SB Ops",
+              "Job Discription": "Process automation & sharepoint creation and maintainance",
+              "Director": "Bryan D Roberts",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "13",
+              "Grade": "I8",
+              "Role": "Sr Advisor, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Process automation",
+              "Director": "Greg Clopton",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "14",
+              "Grade": "I8",
+              "Role": "Sr Advisor, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Account governance, channel complaints & Fraud",
+              "Director": "Greg Clopton",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "15",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Account governance, channel complaints & Fraud",
+              "Director": "Greg Clopton",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "16",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Account governance, channel complaints & Fraud",
+              "Director": "Greg Clopton",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "17",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Account governance, channel complaints & Fraud",
+              "Director": "Greg Clopton",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "18",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Robotic process automation (RPA)",
+              "Director": "Greg Clopton",
+              "Location": "Banglore"
+          },
+          {
+              "id": "19",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Support function",
+              "Director": "Greg Clopton",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "20",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Support function",
+              "Director": "Greg Clopton",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "21",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "22",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "23",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "24",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "25",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "26",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "27",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "28",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "29",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "30",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "31",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "32",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "33",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Order Modification & Reprocess",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "34",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "35",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "36",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "37",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "38",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "39",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "40",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "41",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "42",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "43",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "44",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "45",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "46",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "47",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "48",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "49",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "50",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "51",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "52",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "53",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "54",
+              "Grade": "M6",
+              "Role": "Supervisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Supervisor Quality Audit team",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "55",
+              "Grade": "M6",
+              "Role": "Supervisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Supervisor Order modification team",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "56",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Coach Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "57",
+              "Grade": "M6",
+              "Role": "Supervisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Manager Canada Online order processing",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "58",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Coach Quality Audit team",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "59",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Coach Order Modification team",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "60",
+              "Grade": "I9",
+              "Role": "consultant, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Global CE & NPS Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "61",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "GDO Ops",
+              "Job Discription": "CTB with Report analytics ",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "62",
+              "Grade": "M9",
+              "Role": "Sr Manager, Sales Operations",
+              "Department": "GDO Ops",
+              "Job Discription": "Global Pricing Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "63",
+              "Grade": "I8",
+              "Role": "Sr Advisor, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Non sales product disposition",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "64",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "GDO Ops",
+              "Job Discription": "Global CE & NPS Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "65",
+              "Grade": "I8",
+              "Role": "Manager 2, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Export Compliance",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "66",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "GDO Ops",
+              "Job Discription": "Support analytics",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "67",
+              "Grade": "M8",
+              "Role": "Manager 2, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Factory Lesioning - Impact of process & New Process Implementation",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "68",
+              "Grade": "M8",
+              "Role": "Manager 2, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "69",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "US & EMEA Warranties",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "70",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "US & EMEA Pricing Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "71",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "US & EMEA Warranties",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "72",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "APJ Pricing Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "73",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "APJ Pricing Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "74",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "EMEA Pricing Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "75",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Web Production Management",
+              "Director": "Chirag Dave",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "76",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "US CE & NPS Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "77",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "GDO Ops",
+              "Job Discription": "Export Compliance",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "78",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "RTB & CTB with Report analytics ",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "79",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "GDO Ops",
+              "Job Discription": "RTB & CTB with Report analytics ",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "80",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Internal Quality",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "81",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Export Compliance",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "82",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Export Compliance",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "83",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "RTB  & Reporting Analytics",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "84",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "RTB  & Reporting Analytics",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "85",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "86",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "UK Readiness Support",
+              "Director": "Greg Clopton",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "87",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "88",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "89",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "90",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "91",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Reconciliation & Returns",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "92",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Reconciliation & Returns",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "93",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Reconciliation & Returns",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "94",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Reconciliation & Returns",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "95",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "96",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "97",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "98",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "APJ Pricing Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "99",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "GDO Ops",
+              "Job Discription": "Global data & reporting automation",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "100",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Warranty audit",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "101",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "102",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "Exchange & Collection Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "103",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "US Pricing Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "104",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Internal Quality",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "105",
+              "Grade": "M9",
+              "Role": "Sr Manager, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Senior Manager Sales Operations",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "106",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Purchasing power Order Management & MPP online",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "107",
+              "Grade": "M7",
+              "Role": "Manager 1, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Manager CLRE team US",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "108",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Coach CLRE team US",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "109",
+              "Grade": "M10",
+              "Role": "Director",
+              "Department": "CSB Ops",
+              "Job Discription": "Director Sales Operations",
+              "Director": "Corina Tan",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "110",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Analyst , Merchandising for CSB",
+              "Director": "Chitra Rajan",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "111",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Analyst, Sales support for CSB",
+              "Director": "Chitra Rajan",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "112",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Analyst, Business Intelligence",
+              "Director": "Chitra Rajan",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "113",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Analyst, Dell advantage for Students and Employees across EMEA",
+              "Director": "Chitra Rajan",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "114",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Specialist, Online CL/RE ( UK)",
+              "Director": "Chitra Rajan",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "115",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Specialist, Online CL/RE ( UK)",
+              "Director": "Chitra Rajan",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "116",
+              "Grade": "I3",
+              "Role": "Senior Assistant",
+              "Department": "CSB Ops",
+              "Job Discription": "Quality Audit",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "117",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Pro team PM(Order Journey)",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "118",
+              "Grade": "I6",
+              "Role": "Senior Analyst, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Robotics & Contact Analyst",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "119",
+              "Grade": "I6",
+              "Role": "Senior Analyst, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "OPR",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "120",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "Order Entry & Reporting, NAK Resolution",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "121",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Us & staging Pricing Team",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "122",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "EMEA Chat Queue & APJ Exchange ",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "123",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "GDO Ops",
+              "Job Discription": "EMEA Chat Queue & APJ Exchange ",
+              "Director": "Ratul Choudhury",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "124",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Retail Readiness",
+              "Director": "Greg Clopton",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "125",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Retail Readiness",
+              "Director": "Greg Clopton",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "126",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Data & Report Analysis",
+              "Director": "Chitra Rajan",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "127",
+              "Grade": "I8",
+              "Role": "Sr Advisor, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Online Marketting Project Management",
+              "Director": "Chirag Dave",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "128",
+              "Grade": "I7",
+              "Role": "Advisor, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "IT Project Management",
+              "Director": "Chirag Dave",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "129",
+              "Grade": "I7",
+              "Role": "Advisor, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Project Manager, India Sales Support",
+              "Director": "Chirag Dave",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "130",
+              "Grade": "I7",
+              "Role": "Advisor, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Project Management",
+              "Director": "Chirag Dave",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "131",
+              "Grade": "I7",
+              "Role": "Advisor, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Marketing Project Management",
+              "Director": "Chirag Dave",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "132",
+              "Grade": "I5",
+              "Role": "Analyst, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "Online Marketting & Digital Project Management",
+              "Director": "Chirag Dave",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "133",
+              "Grade": "I7",
+              "Role": "Advisor, Inside Sales",
+              "Department": "GDO Ops",
+              "Job Discription": "IT Project Management",
+              "Director": "Chirag Dave",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "134",
+              "Grade": "I7",
+              "Role": "Advisor, Sales Operations",
+              "Department": "CSB Ops",
+              "Job Discription": "Canada Lead",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "135",
+              "Grade": "I5",
+              "Role": "Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Purchasing power Order Management & MPP online",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "136",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "Marketplace CEM",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "137",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "MPP segment",
+              "Director": "Matt Regenwether",
+              "Location": "Gurgaon"
+          },
+          {
+              "id": "138",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "139",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "140",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "141",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "142",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "143",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "144",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "145",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "146",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "147",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "148",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "149",
+              "Grade": "I4",
+              "Role": "Specialist",
+              "Department": "CSB Ops",
+              "Job Discription": "Cancel and Re-enter",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          },
+          {
+              "id": "150",
+              "Grade": "I6",
+              "Role": "Sr Analyst, Sales Operation",
+              "Department": "CSB Ops",
+              "Job Discription": "US Pro Communication",
+              "Director": "Matt Regenwether",
+              "Location": "Hyderabad"
+          }
+      ],
+      "Skills": [
+          {
+              "id": "1",
+              "I3- Senior Assistant Auditor": "Customer-focused",
+              "I4- Specialist Sales operation": "Customer-focused",
+              "I5- Analyst/Sr Specialist": "Customer-focused",
+              "I6-Sr Analyst": "Customer-focused",
+              "M6-Supervisor": "Customer-focused",
+              "I7-Advisor": "Customer-focused",
+              "M7- Manager 1": "Customer-focused",
+              "I8-Sr Advisor": "Customer-focused",
+              "M8-Manager 2": "Customer-focused",
+              "I9-consultant": "Customer-focused",
+              "M9-Sr Manager": "Customer-focused",
+              "M10-Director": "Customer-focused"
+          },
+          {
+              "id": "2",
+              "I3- Senior Assistant Auditor": "Strong written Communication",
+              "I4- Specialist Sales operation": "Strong written Communication",
+              "I5- Analyst/Sr Specialist": "Strong written Communication",
+              "I6-Sr Analyst": "Strong written Communication",
+              "M6-Supervisor": "Strong written Communication",
+              "I7-Advisor": "Strong written Communication",
+              "M7- Manager 1": "Strong written Communication",
+              "I8-Sr Advisor": "Strong written Communication",
+              "M8-Manager 2": "Strong written Communication",
+              "I9-consultant": "Strong written Communication",
+              "M9-Sr Manager": "Strong written Communication",
+              "M10-Director": "Strong written Communication"
+          },
+          {
+              "id": "3",
+              "I3- Senior Assistant Auditor": "Strong verbal Communication",
+              "I4- Specialist Sales operation": "Strong verbal Communication",
+              "I5- Analyst/Sr Specialist": "Strong Interactive and Communication Skills",
+              "I6-Sr Analyst": "Strong Interactive and Communication Skills",
+              "M6-Supervisor": "Strong Interactive and Communication Skills",
+              "I7-Advisor": "Strong Interactive and Communication Skills",
+              "M7- Manager 1": "Strong Interactive and Communication Skills",
+              "I8-Sr Advisor": "Strong Interactive and Communication Skills",
+              "M8-Manager 2": "Strong Interactive and Communication Skills",
+              "I9-consultant": "Strong Interactive and Communication Skills",
+              "M9-Sr Manager": "Strong Interactive and Communication Skills",
+              "M10-Director": "Strong Interactive and Communication Skills"
+          },
+          {
+              "id": "4",
+              "I3- Senior Assistant Auditor": "Knowledge of Microsoft Office apps",
+              "I4- Specialist Sales operation": "Knowledge of Microsoft Office apps",
+              "I5- Analyst/Sr Specialist": "Knowledge of Microsoft Office apps",
+              "I6-Sr Analyst": "Knowledge of Microsoft Office apps",
+              "M6-Supervisor": "Knowledge of Microsoft Office apps",
+              "I7-Advisor": "Knowledge of Microsoft Office apps",
+              "M7- Manager 1": "Knowledge of Microsoft Office apps",
+              "I8-Sr Advisor": "Knowledge of Microsoft Office apps",
+              "M8-Manager 2": "Knowledge of Microsoft Office apps",
+              "I9-consultant": "Knowledge of Microsoft Office apps",
+              "M9-Sr Manager": "Knowledge of Microsoft Office apps",
+              "M10-Director": "Knowledge of Microsoft Office apps"
+          },
+          {
+              "id": "5",
+              "I3- Senior Assistant Auditor": "Dell Tools",
+              "I4- Specialist Sales operation": "Dell Tools",
+              "I5- Analyst/Sr Specialist": "Dell Tools",
+              "I6-Sr Analyst": "Dell Tools",
+              "M6-Supervisor": "Dell Tools",
+              "I7-Advisor": "Dell Tools",
+              "M7- Manager 1": "Dell Tools",
+              "I8-Sr Advisor": "Dell Tools",
+              "M8-Manager 2": "Dell Tools",
+              "I9-consultant": "Dell Tools",
+              "M9-Sr Manager": "Dell Tools",
+              "M10-Director": "Dell Tools"
+          },
+          {
+              "id": "6",
+              "I3- Senior Assistant Auditor": "Problem Solving Skills",
+              "I4- Specialist Sales operation": "Problem Solving Skills",
+              "I5- Analyst/Sr Specialist": "Problem Solving Skills",
+              "I6-Sr Analyst": "Creative and Problem Solving Skills",
+              "M6-Supervisor": "Creative and Problem Solving Skills",
+              "I7-Advisor": "Creative and Problem Solving Skills",
+              "M7- Manager 1": "Creative and Problem Solving Skills",
+              "I8-Sr Advisor": "Creative and Problem Solving Skills",
+              "M8-Manager 2": "Creative and Problem Solving Skills",
+              "I9-consultant": "Creative and Problem Solving Skills",
+              "M9-Sr Manager": "Creative and Problem Solving Skills",
+              "M10-Director": "Creative and Problem Solving Skills"
+          },
+          {
+              "id": "7",
+              "I3- Senior Assistant Auditor": "Meticulous",
+              "I4- Specialist Sales operation": "Meticulous",
+              "I5- Analyst/Sr Specialist": "Meticulous",
+              "I6-Sr Analyst": "Meticulous",
+              "M6-Supervisor": "Meticulous",
+              "I7-Advisor": "Meticulous",
+              "M7- Manager 1": "Meticulous",
+              "I8-Sr Advisor": "Meticulous",
+              "M8-Manager 2": "Meticulous",
+              "I9-consultant": "Meticulous",
+              "M9-Sr Manager": "Meticulous",
+              "M10-Director": "Meticulous"
+          },
+          {
+              "id": "8",
+              "I3- Senior Assistant Auditor": "Independent Decision Taker",
+              "I4- Specialist Sales operation": "Independent Decision Taker",
+              "I5- Analyst/Sr Specialist": "Independent Decision Taker",
+              "I6-Sr Analyst": "Independent Decision Taker",
+              "M6-Supervisor": "Independent Decision Taker",
+              "I7-Advisor": "Independent Decision Taker",
+              "M7- Manager 1": "Independent Decision Taker",
+              "I8-Sr Advisor": "Independent Decision Taker",
+              "M8-Manager 2": "Independent Decision Taker",
+              "I9-consultant": "Independent Decision Taker",
+              "M9-Sr Manager": "Independent Decision Taker",
+              "M10-Director": "Independent Decision Taker"
+          },
+          {
+              "id": "9",
+              "I3- Senior Assistant Auditor": "Accounting Skills",
+              "I4- Specialist Sales operation": "Accounting Skills",
+              "I5- Analyst/Sr Specialist": "Accounting Skills",
+              "I6-Sr Analyst": "Accounting Skills",
+              "M6-Supervisor": "Ability to Work under pressure and Meet Deadlines",
+              "I7-Advisor": "Accounting Skills",
+              "M7- Manager 1": "Ability to Work under pressure and Meet Deadlines",
+              "I8-Sr Advisor": "Accounting Skills",
+              "M8-Manager 2": "Ability to Work under pressure and Meet Deadlines",
+              "I9-consultant": "Accounting Skills",
+              "M9-Sr Manager": "Ability to Work under pressure and Meet Deadlines",
+              "M10-Director": "Accounting Skills"
+          },
+          {
+              "id": "10",
+              "I3- Senior Assistant Auditor": "Ability to Work under pressure and Meet Deadlines",
+              "I4- Specialist Sales operation": "Ability to Work under pressure and Meet Deadlines",
+              "I5- Analyst/Sr Specialist": "Ability to Work under pressure and Meet Deadlines",
+              "I6-Sr Analyst": "Ability to Work under pressure and Meet Deadlines",
+              "M6-Supervisor": "Planning and execution ",
+              "I7-Advisor": "Ability to Work under pressure and Meet Deadlines",
+              "M7- Manager 1": "Planning and execution ",
+              "I8-Sr Advisor": "Ability to Work under pressure and Meet Deadlines",
+              "M8-Manager 2": "Planning and execution ",
+              "I9-consultant": "Ability to Work under pressure and Meet Deadlines",
+              "M9-Sr Manager": "Planning and execution ",
+              "M10-Director": "Ability to Work under pressure and Meet Deadlines"
+          },
+          {
+              "id": "11",
+              "I4- Specialist Sales operation": "Planning and execution ",
+              "I5- Analyst/Sr Specialist": "Planning and execution ",
+              "I6-Sr Analyst": "Planning and execution ",
+              "M6-Supervisor": "Customer relationship Management",
+              "I7-Advisor": "Planning and execution ",
+              "M7- Manager 1": "Customer relationship Management",
+              "I8-Sr Advisor": "Planning and execution ",
+              "M8-Manager 2": "Customer relationship Management",
+              "I9-consultant": "Planning and execution ",
+              "M9-Sr Manager": "Customer relationship Management",
+              "M10-Director": "Planning and execution "
+          },
+          {
+              "id": "12",
+              "I4- Specialist Sales operation": "Customer relationship Management",
+              "I5- Analyst/Sr Specialist": "Customer relationship Management",
+              "I6-Sr Analyst": "Customer relationship Management",
+              "M6-Supervisor": "Analytical Skills",
+              "I7-Advisor": "Customer relationship Management",
+              "M7- Manager 1": "Analytical Skills",
+              "I8-Sr Advisor": "Customer relationship Management",
+              "M8-Manager 2": "Analytical Skills",
+              "I9-consultant": "Customer relationship Management",
+              "M9-Sr Manager": "Analytical Skills",
+              "M10-Director": "Customer relationship Management"
+          },
+          {
+              "id": "13",
+              "I4- Specialist Sales operation": "Time Management",
+              "I5- Analyst/Sr Specialist": "Analytical Skills",
+              "I6-Sr Analyst": "Analytical Skills",
+              "M6-Supervisor": "Presentation Skills",
+              "I7-Advisor": "Analytical Skills",
+              "M7- Manager 1": "Presentation Skills",
+              "I8-Sr Advisor": "Analytical Skills",
+              "M8-Manager 2": "Presentation Skills",
+              "I9-consultant": "Analytical Skills",
+              "M9-Sr Manager": "Presentation Skills",
+              "M10-Director": "Analytical Skills"
+          },
+          {
+              "id": "14",
+              "I4- Specialist Sales operation": "Accepts Feedback",
+              "I5- Analyst/Sr Specialist": "Presentation Skills",
+              "I6-Sr Analyst": "Presentation Skills",
+              "M6-Supervisor": "Microsoft Excel",
+              "I7-Advisor": "Presentation Skills",
+              "M7- Manager 1": "Microsoft Excel",
+              "I8-Sr Advisor": "Presentation Skills",
+              "M8-Manager 2": "Microsoft Excel",
+              "I9-consultant": "Presentation Skills",
+              "M9-Sr Manager": "Microsoft Excel",
+              "M10-Director": "Presentation Skills"
+          },
+          {
+              "id": "15",
+              "I4- Specialist Sales operation": "Team player",
+              "I5- Analyst/Sr Specialist": "Microsoft Excel",
+              "I6-Sr Analyst": "Microsoft Excel",
+              "M6-Supervisor": "Stake Holder/Client Management",
+              "I7-Advisor": "Microsoft Excel",
+              "M7- Manager 1": "Stake Holder/Client Management",
+              "I8-Sr Advisor": "Microsoft Excel",
+              "M8-Manager 2": "Stake Holder/Client Management",
+              "I9-consultant": "Microsoft Excel",
+              "M9-Sr Manager": "Stake Holder/Client Management",
+              "M10-Director": "Microsoft Excel"
+          },
+          {
+              "id": "16",
+              "I4- Specialist Sales operation": "Cross- Functional Skill",
+              "I5- Analyst/Sr Specialist": "SQL",
+              "I6-Sr Analyst": "SQL",
+              "M6-Supervisor": "Leadership",
+              "I7-Advisor": "SQL",
+              "M7- Manager 1": "Leadership",
+              "I8-Sr Advisor": "SQL",
+              "M8-Manager 2": "Leadership",
+              "I9-consultant": "SQL",
+              "M9-Sr Manager": "Leadership",
+              "M10-Director": "SQL"
+          },
+          {
+              "id": "17",
+              "I5- Analyst/Sr Specialist": "Inventory Management",
+              "I6-Sr Analyst": "Inventory Management",
+              "M6-Supervisor": "Time and Priority Management",
+              "I7-Advisor": "Inventory Management",
+              "M7- Manager 1": "Time and Priority Management",
+              "I8-Sr Advisor": "Inventory Management",
+              "M8-Manager 2": "Time and Priority Management",
+              "I9-consultant": "Inventory Management",
+              "M9-Sr Manager": "Time and Priority Management",
+              "M10-Director": "Inventory Management"
+          },
+          {
+              "id": "18",
+              "I5- Analyst/Sr Specialist": "Database Management and Reporting",
+              "I6-Sr Analyst": "Database Management and Reporting",
+              "M6-Supervisor": "Risk Management",
+              "I7-Advisor": "Database Management and Reporting",
+              "M7- Manager 1": "Risk Management",
+              "I8-Sr Advisor": "Database Management and Reporting",
+              "M8-Manager 2": "Risk Management",
+              "I9-consultant": "Database Management and Reporting",
+              "M9-Sr Manager": "Risk Management",
+              "M10-Director": "Database Management and Reporting"
+          },
+          {
+              "id": "19",
+              "I5- Analyst/Sr Specialist": "Time Management",
+              "I6-Sr Analyst": "Stake Holder/Client Management",
+              "M6-Supervisor": "Critical thinking",
+              "I7-Advisor": "Stake Holder/Client Management",
+              "M7- Manager 1": "Critical thinking",
+              "I8-Sr Advisor": "Stake Holder/Client Management",
+              "M8-Manager 2": "Critical thinking",
+              "I9-consultant": "Stake Holder/Client Management",
+              "M9-Sr Manager": "Critical thinking",
+              "M10-Director": "Stake Holder/Client Management"
+          },
+          {
+              "id": "20",
+              "I5- Analyst/Sr Specialist": "Passionate",
+              "I6-Sr Analyst": "Leadership",
+              "M6-Supervisor": "Eliciting requirements.",
+              "I7-Advisor": "Leadership",
+              "M7- Manager 1": "Eliciting requirements.",
+              "I8-Sr Advisor": "Leadership",
+              "M8-Manager 2": "Eliciting requirements.",
+              "I9-consultant": "Leadership",
+              "M9-Sr Manager": "Eliciting requirements.",
+              "M10-Director": "Leadership"
+          },
+          {
+              "id": "21",
+              "I5- Analyst/Sr Specialist": "Flexible",
+              "I6-Sr Analyst": "Time and Priority Management",
+              "M6-Supervisor": "Share Feedback and Coaching",
+              "I7-Advisor": "Time and Priority Management",
+              "M7- Manager 1": "Share Feedback and Coaching",
+              "I8-Sr Advisor": "Time and Priority Management",
+              "M8-Manager 2": "Share Feedback and Coaching",
+              "I9-consultant": "Time and Priority Management",
+              "M9-Sr Manager": "Share Feedback and Coaching",
+              "M10-Director": "Time and Priority Management"
+          },
+          {
+              "id": "22",
+              "I5- Analyst/Sr Specialist": "Cross Functional Skills",
+              "I6-Sr Analyst": "Risk Management",
+              "M6-Supervisor": "Conflict Mangement",
+              "I7-Advisor": "Risk Management",
+              "M7- Manager 1": "Conflict Mangement",
+              "I8-Sr Advisor": "Risk Management",
+              "M8-Manager 2": "Conflict Mangement",
+              "I9-consultant": "Risk Management",
+              "M9-Sr Manager": "Conflict Mangement",
+              "M10-Director": "Risk Management"
+          },
+          {
+              "id": "23",
+              "I5- Analyst/Sr Specialist": "Share Feedback and Coaching",
+              "I6-Sr Analyst": "Critical thinking",
+              "M6-Supervisor": "Interpersonal Skills",
+              "I7-Advisor": "Critical thinking",
+              "M7- Manager 1": "Interpersonal Skills",
+              "I8-Sr Advisor": "Critical thinking",
+              "M8-Manager 2": "Interpersonal Skills",
+              "I9-consultant": "Critical thinking",
+              "M9-Sr Manager": "Interpersonal Skills",
+              "M10-Director": "Critical thinking"
+          },
+          {
+              "id": "24",
+              "I6-Sr Analyst": "Eliciting requirements.",
+              "M6-Supervisor": "Positive Attitude ",
+              "I7-Advisor": "Eliciting requirements.",
+              "M7- Manager 1": "Positive Attitude ",
+              "I8-Sr Advisor": "Eliciting requirements.",
+              "M8-Manager 2": "Positive Attitude ",
+              "I9-consultant": "Eliciting requirements.",
+              "M9-Sr Manager": "Positive Attitude ",
+              "M10-Director": "Eliciting requirements."
+          },
+          {
+              "id": "25",
+              "I6-Sr Analyst": "Cross Functional Skills",
+              "M6-Supervisor": "Passionate",
+              "I7-Advisor": "Cross Functional Skills",
+              "M7- Manager 1": "Passionate",
+              "I8-Sr Advisor": "Cross Functional Skills",
+              "M8-Manager 2": "Passionate",
+              "I9-consultant": "Conflict Mangement",
+              "M9-Sr Manager": "Passionate",
+              "M10-Director": "Share Feedback and Coaching"
+          },
+          {
+              "id": "26",
+              "I6-Sr Analyst": "Conflict Mangement",
+              "M6-Supervisor": "Flexible",
+              "I7-Advisor": "Conflict Mangement",
+              "M7- Manager 1": "Flexible",
+              "I8-Sr Advisor": "Conflict Mangement",
+              "M8-Manager 2": "Flexible",
+              "I9-consultant": "Interpersonal Skills",
+              "M9-Sr Manager": "Flexible",
+              "M10-Director": "Conflict Mangement"
+          },
+          {
+              "id": "27",
+              "I6-Sr Analyst": "Interpersonal Skills",
+              "M6-Supervisor": "Confident",
+              "I7-Advisor": "Interpersonal Skills",
+              "M7- Manager 1": "Confident",
+              "I8-Sr Advisor": "Interpersonal Skills",
+              "M8-Manager 2": "Confident",
+              "I9-consultant": "Positive Attitude ",
+              "M9-Sr Manager": "Confident",
+              "M10-Director": "Interpersonal Skills"
+          },
+          {
+              "id": "28",
+              "I6-Sr Analyst": "Positive Attitude ",
+              "M6-Supervisor": "People Management",
+              "I7-Advisor": "Positive Attitude ",
+              "M7- Manager 1": "People Management",
+              "I8-Sr Advisor": "Positive Attitude ",
+              "M8-Manager 2": "People Management",
+              "I9-consultant": "Passionate",
+              "M9-Sr Manager": "People Management",
+              "M10-Director": "Positive Attitude "
+          },
+          {
+              "id": "29",
+              "I6-Sr Analyst": "Passionate",
+              "M6-Supervisor": "Cross Functional Skills",
+              "I7-Advisor": "Passionate",
+              "M7- Manager 1": "Cross Functional Skills",
+              "I8-Sr Advisor": "Passionate",
+              "M8-Manager 2": "Business Strategic Planning Ability",
+              "I9-consultant": "Flexible",
+              "M9-Sr Manager": "Business Strategic Planning Ability",
+              "M10-Director": "Passionate"
+          },
+          {
+              "id": "30",
+              "I6-Sr Analyst": "Flexible",
+              "I7-Advisor": "Flexible",
+              "M7- Manager 1": "Project Management",
+              "I8-Sr Advisor": "Flexible",
+              "M8-Manager 2": "Creativity and Innovation",
+              "I9-consultant": "Confident",
+              "M9-Sr Manager": "Creativity and Innovation",
+              "M10-Director": "Flexible"
+          },
+          {
+              "id": "31",
+              "I6-Sr Analyst": "Confident",
+              "I7-Advisor": "Confident",
+              "I8-Sr Advisor": "Confident",
+              "M8-Manager 2": "Human Resources",
+              "I9-consultant": "People Management",
+              "M9-Sr Manager": "Financial and management controls ",
+              "M10-Director": "Confident"
+          },
+          {
+              "id": "32",
+              "I6-Sr Analyst": "People Management",
+              "I7-Advisor": "People Management",
+              "I8-Sr Advisor": "People Management",
+              "M8-Manager 2": "Project Management",
+              "I9-consultant": "Business Strategic Planning Ability",
+              "M9-Sr Manager": "Human Resources",
+              "M10-Director": "People Management"
+          },
+          {
+              "id": "33",
+              "I7-Advisor": "Project Management",
+              "I8-Sr Advisor": "Business Strategic Planning Ability",
+              "M8-Manager 2": "Cross Functional Skills",
+              "I9-consultant": "Creativity and Innovation",
+              "M9-Sr Manager": "Marketing ",
+              "M10-Director": "Business Strategic Planning Ability"
+          },
+          {
+              "id": "34",
+              "I8-Sr Advisor": "Creativity and Innovation",
+              "M8-Manager 2": "Marketing ",
+              "I9-consultant": "Financial and management controls ",
+              "M9-Sr Manager": "Supply chain management ",
+              "M10-Director": "Creativity and Innovation"
+          },
+          {
+              "id": "35",
+              "I8-Sr Advisor": "Financial and management controls ",
+              "M8-Manager 2": "Financial and management controls ",
+              "I9-consultant": "Human Resources",
+              "M9-Sr Manager": "Research and Development",
+              "M10-Director": "Financial and management controls "
+          },
+          {
+              "id": "36",
+              "I8-Sr Advisor": "Human Resources",
+              "I9-consultant": "Information technology",
+              "M9-Sr Manager": "Project Management",
+              "M10-Director": "Human Resources"
+          },
+          {
+              "id": "37",
+              "I8-Sr Advisor": "Information technology",
+              "I9-consultant": "Marketing ",
+              "M9-Sr Manager": "Professionalism",
+              "M10-Director": "Information technology"
+          },
+          {
+              "id": "38",
+              "I8-Sr Advisor": "Marketing ",
+              "I9-consultant": "Supply chain management ",
+              "M9-Sr Manager": "Bussiness Judgement",
+              "M10-Director": "Marketing "
+          },
+          {
+              "id": "39",
+              "I8-Sr Advisor": "Supply chain management ",
+              "I9-consultant": "Research and Development",
+              "M9-Sr Manager": "Commericial and Business Awareness",
+              "M10-Director": "Supply chain management "
+          },
+          {
+              "id": "40",
+              "I8-Sr Advisor": "Research and Development",
+              "I9-consultant": "Project Management",
+              "M9-Sr Manager": "Understanding of Business Environment",
+              "M10-Director": "Research and Development"
+          },
+          {
+              "id": "41",
+              "I8-Sr Advisor": "Project Management",
+              "I9-consultant": "Professionalism",
+              "M9-Sr Manager": "Organizational Skills",
+              "M10-Director": "Project Management"
+          },
+          {
+              "id": "42",
+              "I9-consultant": "Bussiness Judgement",
+              "M9-Sr Manager": "Stress Resilient",
+              "M10-Director": "Professionalism"
+          },
+          {
+              "id": "43",
+              "I9-consultant": "Commericial and Business Awareness",
+              "M9-Sr Manager": "Cross Functional Skills",
+              "M10-Director": "Bussiness Judgement"
+          },
+          {
+              "id": "44",
+              "I9-consultant": "Understanding of Business Environment",
+              "M10-Director": "Commericial and Business Awareness"
+          },
+          {
+              "id": "45",
+              "I9-consultant": "Organizational Skills",
+              "M10-Director": "Understanding of Business Environment"
+          },
+          {
+              "id": "46",
+              "I9-consultant": "Stress Resilient",
+              "M10-Director": "Organizational Skills"
+          },
+          {
+              "id": "47",
+              "I9-consultant": "Cross Functional Skills",
+              "M10-Director": "Stress Resilient"
+          },
+          {
+              "id": "48",
+              "M10-Director": "Collaboration Skills"
+          },
+          {
+              "id": "49",
+              "M10-Director": "Negotiation & Persuasion "
+          },
+          {
+              "id": "50",
+              "M10-Director": "Research & Strategy."
+          },
+          {
+              "id": "51",
+              "M10-Director": "Business Intelligence"
+          },
+          {
+              "id": "52",
+              "M10-Director": "Representational Qualities"
+          },
+          {
+              "id": "53",
+              "M10-Director": "Cross Functional Skills"
+          }
+      ]
 }
